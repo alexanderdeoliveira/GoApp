@@ -1,0 +1,1 @@
+export const LOGIN_EM_ANDAMENTO = 'login_em_andamento';
